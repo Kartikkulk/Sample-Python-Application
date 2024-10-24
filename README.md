@@ -1,4 +1,4 @@
-## Getting Started
+## Getting Started now
 
 We provide a sample app using Python that you can deploy on App Platform. These steps will get this sample application running for you using App Platform.
 
